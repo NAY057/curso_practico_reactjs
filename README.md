@@ -22,17 +22,24 @@
 ```diff
 + npm install @babel/core @babel/preset-env @babel/preset-react
 ```
+
 # paso 2
 ## Instalacion de Webpack
+```diff
 + npm install webpack webpack-cli webpack-dev-server
+```
 
 # paso 3
 ## Instalacion HTLM plugin
+```diff
 + npm install babel-loader html-loader html-webpack-plugin
+```
 
 # paso 4
 ## Instalacion del loader para babel html y webpack
+```diff
 + npm install babel-loader html-loader html-webpack-plugin --save-dev
+```
 
 # CIUDADO!!
 ```diff
